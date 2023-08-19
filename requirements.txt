@@ -1,4 +1,4 @@
-matplotlib==3.7.1
+matplotlib==3.5.3
 matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661934094726/work
 pandas==2.0.2
 seaborn==0.12.2
